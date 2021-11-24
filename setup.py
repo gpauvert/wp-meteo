@@ -15,6 +15,6 @@ setup(
     author="Guillaume Pauvert",
     author_email="g.pauvert@hotmail.com",
     license=lic,
-    packages=["wp-meteo"],
+    packages=["wp_meteo"],
     install_requires=["pandas"]
 )
