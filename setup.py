@@ -8,13 +8,13 @@ with open('LICENSE') as f:
     lic = f.read()
 
 setup(
-    name="meteo",
+    name="wp-meteo",
     version="0.1.0",
     long_description=readme,
     url="https://github.com/gpauvert/meteo",
     author="Guillaume Pauvert",
     author_email="g.pauvert@hotmail.com",
     license=lic,
-    packages=["meteo"],
+    packages=["wp-meteo"],
     install_requires=["pandas"]
 )
