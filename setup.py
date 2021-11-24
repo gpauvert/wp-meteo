@@ -8,7 +8,7 @@ with open('LICENSE') as f:
     lic = f.read()
 
 setup(
-    name="meteo-reader",
+    name="meteo",
     version="0.1.0",
     long_description=readme,
     url="https://github.com/gpauvert/meteo",
