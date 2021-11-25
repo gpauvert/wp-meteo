@@ -1,1 +1,1 @@
-from loader import WindPRO
+from wp_meteo import loader
